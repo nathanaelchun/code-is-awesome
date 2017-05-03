@@ -1,0 +1,16 @@
+var highfives=0;
+console.log(highfives);
+highfives++;
+console.log(highfives);
+highfives--;
+console.log(highfives);
+highfives=highfives+1;
+var polar_bear= "polar bear is awesome!!!";
+console.log(polar_bear);
+highfives++;
+highfives++;
+highfives=highfives+909090;
+var cool="I am awesome!!!";
+console.log(cool);
+var polarbear="comics is awesome";
+console.log(polarbear);
