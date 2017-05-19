@@ -1,0 +1,10 @@
+var a = "meincartefDDopoodxnxsunznszbb.";
+console.log(a.slice(0, 1));
+console.log(a.slice(2, 3));
+console.log(a.slice(3, 4));
+console.log(a.slice(1, 2));
+console.log(a.slice(4, 5));
+console.log(a.slice(6, 7));
+console.log(a.slice(5, 6));
+console.log(a.slice(9, 10));
+console.log(a.slice(7, 8));
