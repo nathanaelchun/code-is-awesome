@@ -1,2 +1,2 @@
-var a="stampycat is good at building."
-console.log(a)
+var a = "stampycat is good at building.";
+console.log(a);
