@@ -1,0 +1,1 @@
+console.log("mooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooos! ".repeat(999999));
