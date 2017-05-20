@@ -11,3 +11,4 @@
 - 2017-05-10: moooo
 - 2017-05-11: Favorite rocketship!!!!
 - 2017-05-18: Minecraft
+- 2017-05-19: boolean (true/false) & stampycat

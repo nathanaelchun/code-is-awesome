@@ -1,0 +1,12 @@
+var m = 1 < 2;
+console.log(m);
+var e = "or";
+console.log(e);
+var er = 3 > 5;
+console.log(er);
+var math = (1 + 1 == 3 - 1);
+console.log(e);
+console.log(er);
+var notequal = (1 + 1 != 3 + 3);
+console.log(e);
+console.log(notequal);
