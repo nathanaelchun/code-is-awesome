@@ -1,0 +1,1 @@
+console.log("Polar Bear! ".repeat(99999));
