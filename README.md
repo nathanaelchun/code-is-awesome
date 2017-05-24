@@ -14,3 +14,4 @@
 - 2017-05-19: boolean (true/false) & stampycat
 - 2017-05-20: true/false exercises
 - 2017-05-22: marker!
+- 2017-05-24: pop,logical operators!
